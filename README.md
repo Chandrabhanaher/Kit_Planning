@@ -3,12 +3,12 @@
 `````````
 
 Using Mysql Database 
-```Change the database name in database.php file
+``Change the database name in database.php file
 
 ``Create PDF
-```# Ajax Code
+``# Ajax Code
 
-```$(document).on('click','.priority',function (){
+``$(document).on('click','.priority',function (){
     var SEQ_NO = $(this).attr("id"); 
     $('#loadingmessage').show();
     $('.tab-content').hide();
@@ -33,5 +33,5 @@ Using Mysql Database
             }            
         });
     }
-``` });
+``});
 
