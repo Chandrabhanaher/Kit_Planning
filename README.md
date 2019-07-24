@@ -1,7 +1,8 @@
 # Php Codeigitor Fremwork
-``Using Ajax, Jquery, JavaScript , css
-`` Using Mysql Database 
-``` Change the database name in database.php file
+Using Ajax, Jquery, JavaScript , css.
+
+```Using Mysql Database 
+Change the database name in database.php file
 
 ``Create PDF
 ```# Ajax Code
