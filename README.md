@@ -10,6 +10,7 @@ Create PDF
 
 # Ajax Code
 
+
 ``$(document).on('click','.priority',function (){
     var SEQ_NO = $(this).attr("id"); 
     $('#loadingmessage').show();
@@ -35,5 +36,5 @@ Create PDF
             }            
         });
     }
-});.
+```});
 
